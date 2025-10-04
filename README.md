@@ -16,3 +16,19 @@ It provides a clean, responsive, and modern shopping interface with navigation, 
 ---
 
 ## Project Structure
+SmartCart/
+│── index.html
+│── about.html
+│── contact.html
+│── shop.html
+│── home.html
+│
+├── css/
+│   └── style.css
+│
+├── images/
+│   ├── logo.png
+│   ├── shopping.jpg
+│   ├── bat.jpeg
+│   └── rackets.jpeg
+
